@@ -1,0 +1,11 @@
+C:\Users\jaqueline.moreira\source\repos\ProjectURL\ProjectURL.Domain\bin\Debug\netcoreapp2.2\ProjectURL.Domain.deps.json
+C:\Users\jaqueline.moreira\source\repos\ProjectURL\ProjectURL.Domain\bin\Debug\netcoreapp2.2\ProjectURL.Domain.dll
+C:\Users\jaqueline.moreira\source\repos\ProjectURL\ProjectURL.Domain\bin\Debug\netcoreapp2.2\ProjectURL.Domain.pdb
+C:\Users\jaqueline.moreira\source\repos\ProjectURL\ProjectURL.Domain\obj\Debug\netcoreapp2.2\ProjectURL.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jaqueline.moreira\source\repos\ProjectURL\ProjectURL.Domain\obj\Debug\netcoreapp2.2\ProjectURL.Domain.AssemblyInfoInputs.cache
+C:\Users\jaqueline.moreira\source\repos\ProjectURL\ProjectURL.Domain\obj\Debug\netcoreapp2.2\ProjectURL.Domain.AssemblyInfo.cs
+C:\Users\jaqueline.moreira\source\repos\ProjectURL\ProjectURL.Domain\obj\Debug\netcoreapp2.2\ProjectURL.Domain.dll
+C:\Users\jaqueline.moreira\source\repos\ProjectURL\ProjectURL.Domain\obj\Debug\netcoreapp2.2\ProjectURL.Domain.pdb
+C:\Users\jaqueline.moreira\source\repos\ProjectURL\ProjectURL.Domain\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+C:\Users\jaqueline.moreira\source\repos\ProjectURL\ProjectURL.Domain\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+C:\Users\jaqueline.moreira\source\repos\ProjectURL\ProjectURL.Domain\obj\Debug\netcoreapp2.2\ProjectURL.Domain.csproj.CopyComplete
